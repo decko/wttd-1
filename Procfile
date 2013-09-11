@@ -1,4 +1,2 @@
-
-
 web: gunicorn eventex.wsgi
 
